@@ -12,3 +12,7 @@
 i {
   color: #3e6697;
 }
+
+html {
+  scroll-behavior: smooth;
+}
